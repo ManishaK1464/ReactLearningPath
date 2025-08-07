@@ -6,7 +6,6 @@ function App() {
    
     <div className="container"> 
       <UserCard /> 
-      <UserCard />
     </div>
   
   
